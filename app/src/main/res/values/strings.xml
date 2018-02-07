@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">InventoryApp</string>
+    <string name="the_store_is_empty_right_now">the store is empty right now</string>
+    <string name="get_started_by_adding_new_stock">get started by adding a new stock</string>
+    <string name="empty_list_hint">empty list</string>
+    <string name="sale_button">sale button</string>
+    <string name="title_activity_details">DetailsActivity</string>
+    <string name="supplier_email_title">supplier email </string>
+    <string name="supplier_phone_hint">supplier phone</string>
+    <string name="image">image</string>
+    <string name="hint_email_address">email address</string>
+    <string name="quantity_title">quantity</string>
+    <string name="price_title">price</string>
+    <string name="product_name_title">product name</string>
+    <string name="supplier_name_title">supplier</string>
+    <string name="supplier_name_hint">enter supplier</string>
+    <string name="supplier_phone_title">supplier phone</string>
+    <string name="select_image">select an image</string>
+    <string name="order_message">orde4r</string>
+    <string name="phone">phone</string>
+    <string name="email">email</string>
+    <string name="delete_message">delete</string>
+    <string name="delete">delete</string>
+    <string name="cancel">cancel</string>
+</resources>

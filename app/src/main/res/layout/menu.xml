@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.view.menu.ListMenuItemView    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <item
+        android:id="@+id/action_add_dummy_data"
+        android:title="add data"
+        android:icon="@drawable/ic_cloud_download_black_24dp"
+         />
+</android.support.v7.view.menu.ListMenuItemView>
